@@ -1,29 +1,12 @@
 # full-stack
 
-## Project setup
+
+
+## a self-made full stack project by ekko-wang
 ```
-npm install
+How long you have is not important, the key is how to use it.  --ekko
+
+时间，不在于你拥有多少，而在于你怎样使用。 --艾克
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
