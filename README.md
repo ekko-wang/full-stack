@@ -1,12 +1,22 @@
-# full-stack
+# mt-app
 
+> My incredible Nuxt.js project
 
+## Build Setup
 
-## a self-made full stack project by ekko-wang
+``` bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm start
+
+# generate static project
+$ npm run generate
 ```
-How long you have is not important, the key is how to use it.  --ekko
 
-时间，不在于你拥有多少，而在于你怎样使用。 --艾克
-```
-
-
+For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
