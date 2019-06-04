@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        mt-app
+        ekko-app
       </h1>
       <h2 class="subtitle">
         My incredible Nuxt.js project
